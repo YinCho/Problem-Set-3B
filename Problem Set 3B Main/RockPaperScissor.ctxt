@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RockPaperScissor
+comment1.params=option
+comment1.target=RockPaperScissor(int)
+comment2.params=
+comment2.target=java.lang.String\ computerChoice()
+numComments=3
